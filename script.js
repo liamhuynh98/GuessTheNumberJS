@@ -38,5 +38,4 @@ document.querySelector('.check').addEventListener('click', function () {
       document.querySelector('.score').textContent = 0;
     }
   }
-  BLAH BLAH BLAH TEST 
 });
