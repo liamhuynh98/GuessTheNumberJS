@@ -2,6 +2,6 @@
 
 OBJECTIVE
 
-1. Learn about DOM and Events Fundamentals
-2. Learn more about Javascript
-3. Get familiar with GitHub and how to use it on the VScode terminal
+1. Learn Javascript
+2. Try to host the site online
+3. Learn to store user_name, and user_score to the back end
